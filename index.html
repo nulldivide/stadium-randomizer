@@ -15,10 +15,6 @@
             <div class="main-layout">
                 <div>
                     <div class="panel">
-                        <!-- <div class="panel-header">
-                            <div class="panel-header-dot"></div>
-                            <span class="panel-header-label">Select Hero</span>
-                        </div> -->
                         <div id="hero-grid"></div>
                     </div>
                     <div id="random-btn-section">
@@ -30,7 +26,10 @@
                         <div class="panel build-empty-panel">
                             <p class="build-empty">Select a hero to generate a build</p>
                         </div>
-                        <h2 id="hero-name" hidden></h2>
+                        <div id="hero-name-section" hidden>
+                            <h2 id="hero-name"></h2>
+                            <button id="reroll-btn" type="button">↻</button>
+                        </div>
                         <button id="copy-btn" type="button" hidden>Copy Build</button>
                         <div id="powers" class="panel" hidden>
                             <div class="panel-header">
