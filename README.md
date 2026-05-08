@@ -2,6 +2,8 @@
 
 An Overwatch Stadium build randomizer inspired by [Ultimate Bravery](https://www.ultimate-bravery.net/). Select a hero or hit **Random Hero** to get a randomized set of powers and items for your next Stadium run.
 
+Check it out [here!](https://nulldivide.github.io/stadium-randomizer/)
+
 ---
 
 ## How It Works
