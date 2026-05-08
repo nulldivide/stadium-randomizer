@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;900&family=Barlow:wght@300;400;500&display=swap');
 
+[hidden] {
+    display: none !important;
+}
+
 body {
     background-color: #07090f;
     color: #e8eaf0;
@@ -116,6 +120,28 @@ h1 {
     list-style: none;
     padding: 8px 0;
     margin: 0;
+}
+
+#hero-name-section {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 4px;
+}
+
+#reroll-btn {
+    background: transparent;
+    border: none;
+    color: #4a5568;
+    font-size: 1.6rem;
+    cursor: pointer;
+    padding: 0;
+    transition: color 0.15s;
+    line-height: 1;
+}
+
+#reroll-btn:hover {
+    color: #f99e1a;
 }
 
 .power-list-element {

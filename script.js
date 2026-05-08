@@ -14,6 +14,11 @@ async function init() {
     populate_hero_grid()
     random_button_handler()
     document.getElementById("copy-btn").addEventListener("click", copy_build)
+    document.getElementById("reroll-btn").addEventListener("click", () => {
+        if (current_hero) {
+            create_build(current_hero)
+        }
+    })
 }
 
 function split_items(items) {
@@ -186,9 +191,9 @@ function create_build(hero) {
     const empty = build_section.querySelector(".build-empty-panel")
     if (empty) empty.remove()
 
-    const hero_name = document.getElementById("hero-name")
-    hero_name.textContent = hero_data.name
-    hero_name.hidden = false
+    const hero_name_section = document.getElementById("hero-name-section")
+    hero_name_section.hidden = false
+    document.getElementById("hero-name").textContent = hero_data.name
 
     const powers_section = document.getElementById("powers")
     if (powers_section) {
