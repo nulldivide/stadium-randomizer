@@ -1558,7 +1558,7 @@
         "cost": 9000,
         "hero": "mercy"
     },
-    "resurection_rangefinder": {
+    "resurrection_rangefinder": {
         "id": "resurrection_rangefinder",
         "name": "Resurrection Rangefinder",
         "category": "Ability",
