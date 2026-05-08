@@ -83,6 +83,7 @@ h1 {
     text-transform: uppercase;
     color: #e8eaf0;
     margin-bottom: 4px;
+    margin: 0;
 }
 
 #copy-btn {
