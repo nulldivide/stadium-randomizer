@@ -1,0 +1,226 @@
+{
+    "dva": {
+        "id": "dva",
+        "name": "D.Va",
+        "role": "tank",
+        "tags": ["dive"],
+        "powers": ["Focused Fusion", "Legendary Loadout", "Overstocked", "Countermeasures", "Facetanking", "Ultrawide Matrix", "Ignition Burst", "MEKA Punch", "Stat Boost", "Tokki Slam", "Express Detonation", "Party Protector"]
+    },
+    "doomfist": {
+        "id": "doomfist",
+        "name": "Doomfist",
+        "role": "tank",
+        "tags": ["dive"],
+        "powers": ["Jab Cross", "Rising Uppercut", "The Best Defense", "Aftershock (Power)", "Seismic Rally", "Slam Wham", "Boomfist", "Jetforce Jab", "Overpowered", "Asteroid Smash", "Helping Hand", "Block Party"]
+    },
+    "hazard": {
+        "id": "hazard",
+        "name": "Hazard",
+        "role": "tank",
+        "tags": ["dive", "brawl"],
+        "powers": ["Barbed Shot", "Bonerot", "Hit Me Again", "Needle Storm", "Bunny Hop", "Slasher", "Twin Fang", "Woof Woof!", "Fortress", "Juiced", "Off The Wall", "Bringin' The Pain"]
+    },
+    "junkerqueen": {
+        "id": "junkerqueen",
+        "name": "Junker Queen",
+        "role": "tank",
+        "tags": ["brawl"],
+        "powers": ["Thrill of Battle", "Royal Bullets", "Twist the Knife", "Blade Parade", "Cut 'Em, Gracie!", "Let's Go Win", "Merciless Magnetism", "Reckoner's Roar", "Chop Chop", "Soaring Stone", "Bloodcrazed", "Bow Down"]
+    },
+    "orisa": {
+        "id": "orisa",
+        "name": "Orisa",
+        "role": "tank",
+        "tags": ["poke"],
+        "powers": ["Scorched Earth", "Shield Divergence", "Advanced Throwbotics", "Hot Rotate-O", "Spynstem Update", "Factory Reset", "Hooves of Steel", "Restorify", "Ride with Me", "Lassoed", "Centripetal Charge", "Supercharger"]
+    },
+    "ramattra": {
+        "id": "ramattra",
+        "name": "Ramattra",
+        "role": "tank",
+        "tags": ["brawl", "poke"],
+        "powers": ["Void Blight", "Void Surge", "Ramparts", "Recursion Relay", "Final Form", "Second Phase", "Breakout", "Conversion Protocol", "Retaliation", "Insatiable Spiral", "Ravaging Vortex", "Dreadknight"]
+    },
+    "reinhardt": {
+        "id": "reinhardt",
+        "name": "Reinhardt",
+        "role": "tank",
+        "tags": ["brawl"],
+        "powers": ["Amplification Barrier", "Barrier Reconstruction", "Infusion Generator", "To Me, My Friends!", "Shield Stampede", "Vanguard", "Vroon Boom Boom", "Blazing Blitz", "Impact Burst", "Magma Strike", "Feeling the Burn", "Smashing!"]
+    },
+    "sigma": {
+        "id": "sigma",
+        "name": "Sigma",
+        "role": "tank",
+        "tags": ["poke"],
+        "powers": ["Zero Gravity", "Hyperloop", "Trinisphere", "Event Horison", "Symphonic Syzygy", "Orbital Barrier", "Philharmonic Fortitude", "Mass Driver", "Singularity", "Maestro", "Apogee Alignment", "Astrophysical"]
+    },
+    "winston": {
+        "id": "winston",
+        "name": "Winston",
+        "role": "tank",
+        "tags": ["dive"],
+        "powers": ["Circuit Breaker", "Electro Cluster", "Lightning Rod", "Volatile Volt", "Lunar Leap", "Moon Landing", "Primal Punch", "Pocket Projector", "Surge Protector", "Tesla Field", "Primal Slam", "Thick Skin"]
+    },
+    "zarya": {
+        "id": "zarya",
+        "name": "Zarya",
+        "role": "tank",
+        "tags": ["brawl"],
+        "powers": ["No Limits", "Particle Accelerator", "Piercing Beam", "Pre-workout", "Barrier Benefits", "Containment Shield", "Fission Field", "Here to Spot You", "Lifelift", "Major Flex", "Volskaya Vortex", "Graviton Anomaly"]
+    },
+    "ashe": {
+        "id": "ashe",
+        "name": "Ashe",
+        "role": "dps",
+        "tags": ["poke"],
+        "powers": ["Fire At My Fingertips", "My Business, My Rules", "Reload Therapy", "Slow Burn", "Calamity", "Double Barreled", "What In Tarnation!?", "Controlled Boom", "Out With a Bang", "Stacked Sticks", "B.O.B. Jr.", "PinB.O.B."]
+    },
+    "cassidy": {
+        "id": "cassidy",
+        "name": "Cassidy",
+        "role": "dps",
+        "tags": ["poke"],
+        "powers": ["Bang Bang", "Buck Wild", "Bullseye", "Dead Man Walkin'", "Full House", "Quick Draw", "Think Flasht", "Barrel Roll", "Just Roll with It", "Easy Rider", "It's Twelve O'clock Somewhere", "Hot Potato"]
+    },
+    "freja": {
+        "id": "freja",
+        "name": "Freja",
+        "role": "dps",
+        "tags": ["poke"],
+        "powers": ["Cyclone", "Seekerpoint", "Seismic Shot", "Thread the Needle", "Deep Pockets", "Forager", "Peak Performance", "Redux", "Volley à Deux", "Little Fælde", "So Cooked", "Mighty Gust"]
+    },
+    "genji": {
+        "id": "genji",
+        "name": "Genji",
+        "role": "dps",
+        "tags": ["dive"],
+        "powers": ["Cybernetic Speed", "Hashimoto's Bane", "Sacred Shuriken", "Hanamura Healing", "Hidden Blade", "Laceration", "Wyrm's Maw", "Deflect-o-bot", "Forged Under Fire", "Iaido Strike", "Spirit of Sojiro", "Dragon's Breath"]
+    },
+    "junkrat": {
+        "id": "junkrat",
+        "name": "Junkrat",
+        "role": "dps",
+        "tags": ["brawl"],
+        "powers": ["Frags For Days", "Bango!", "Big Bang", "Bingo!", "Soot Shaker", "Double Trouble", "Trap II, Esquire", "Hop Boom", "Slapnel", "Gachabomb", "Rainin' Lead", "Rip Roll"]
+    },
+    "mei": {
+        "id": "mei",
+        "name": "Mei",
+        "role": "dps",
+        "tags": ["brawl"],
+        "powers": ["Extendothermics", "Frost Armor", "Permafrost", "Slowball", "Iceberg", "Snowball Fight", "Twice As Ice", "Coulder", "Cryclone", "Frost Nova", "Blizznado", "Cold Blaster"]
+    },
+    "pharah": {
+        "id": "pharah",
+        "name": "Pharah",
+        "role": "dps",
+        "tags": ["dive"],
+        "powers": ["Evasive Maneuvers", "Extra Charge", "Launch Vector", "Blitz Barrage", "Carpet Bomb", "Recursion Battery", "Cyclic Salvo", "Fuel Depot", "Triple Volley", "Fuel Conversion", "Heat Seekers", "Speed Kills"]
+    },
+    "reaper": {
+        "id": "reaper",
+        "name": "Reaper",
+        "role": "dps",
+        "tags": ["brawl"],
+        "powers": ["Backstabber", "Harvest Fest", "Revolving Ruin", "Shared Siphon", "Shrouded Shrapnel", "Spirited to Slay", "Vampiric Touch", "Death Step", "Silent as the Grave", "Strangle Step", "Ghosted", "Wraith Renewal"]
+    },
+    "sojourn": {
+        "id": "sojourn",
+        "name": "Sojourn",
+        "role": "dps",
+        "tags": ["poke", "dive"],
+        "powers": ["Fine-Tuned Thrusters", "Lock and Load", "Unconventional Tactics", "Zoom Zoom Zoom", "Commotion Cycle", "Experimental Tech", "Hard Stuck", "Conductor Chase", "Overcharge", "Reveerberation Rounds", "Enhanced Targeting System", "Aftershock (Sojourn)"]
+    },
+    "soldier76": {
+        "id": "soldier76",
+        "name": "Soldier: 76",
+        "role": "dps",
+        "tags": ["poke"],
+        "powers": ["Peripheral Pulse", "Super Visor", "Chaingun", "Man on the Run", "Cratered", "Double Helix", "Hunker Down", "Back Off", "Biotic Bullseye", "Frontliners", "On Me!", "Track and Field"]
+    },
+    "torbjorn": {
+        "id": "torbjorn",
+        "name": "Torbjorn",
+        "role": "dps",
+        "tags": ["poke"],
+        "powers": ["All Grown Up", "Positive Reinforcement", "Turriplets", "Magmini", "Swedish Sauna", "Come Get Yer Armor", "Dwarlord", "Let Off Some Steam", "Blacksmith", "Forged In Fire", "Clocked", "Riveting"]
+    },
+    "tracer": {
+        "id": "tracer",
+        "name": "Tracer",
+        "role": "dps",
+        "tags": ["dive"],
+        "powers": ["Flash Fist", "Get Stuffed!", "Blink Of An Eye", "Quantum Clip", "Alternate Ending", "Auto Recall", "Bullet Time", "T.Racer", "Temportal", "Foresight", "Timelapse", "Impulsive"]
+    },
+    "vendetta": {
+        "id": "vendetta",
+        "name": "Vendetta",
+        "role": "dps",
+        "tags": ["dive", "brawl"],
+        "powers": ["Continuum", "Rising Rampage", "Overloaded Strike", "Skycut", "Defiance Core", "furious Friction", "Riposte", "Cyclone Charge", "Double Dash", "Exalted Empress", "Up And Over", "Cataclisma"]
+    },
+    "ana": {
+        "id": "ana",
+        "name": "Ana",
+        "role": "support",
+        "tags": ["poke"],
+        "powers": ["Artsy Dartsy", "No Scope Needed", "Pinpoint Prescription", "Comfy Cloud", "Dreamy", "Fountain of Soothe", "Home Remedy", "NanoNade", "Venomous", "Falconer", "My Turn", "Our Turn"]
+    },
+    "brigitte": {
+        "id": "brigitte",
+        "name": "Brigitte",
+        "role": "support",
+        "tags": ["brawl"],
+        "powers": ["Burst Aid", "Righteous Cleave", "Whirlwhip", "Optimizer", "Packstacker", "God Ray", "Maces to Faces", "Mender Bender", "Sköldkastning", "Lindholm Wall", "Aura Farming", "Consecrated Ground"]
+    },
+    "juno": {
+        "id": "juno",
+        "name": "Juno",
+        "role": "support",
+        "tags": ["dive", "poke"],
+        "powers": ["Fission Chamber", "MediMaster", "Stinger", "Cosmic Coolant", "Medicinal Missiles", "Pulsar Plus", "Blink Boots", "Torpedo Glide", "Hyper Healer", "Heal Formation", "Orbital Alignment", "Stellar Focus"]
+    },
+    "kiriko": {
+        "id": "kiriko",
+        "name": "Kiriko",
+        "role": "support",
+        "tags": ["dive"],
+        "powers": ["Foxy Fireworks", "Keen Kunai", "Triple Threat", "Leaf on the Wind", "Self-Care", "Supported Shooting", "Clone Conjuration", "Fleet Foot", "Cleansing Charge", "Two-Zu", "Crossing Guard", "Spirit Veil"]
+    },
+    "lucio": {
+        "id": "lucio",
+        "name": "Lucio",
+        "role": "support",
+        "tags": ["dive", "brawl"],
+        "powers": ["Fast Forward", "Signature Shift", "Sonic Boom", "Mixtape", "Megaphone", "Radio Edit", "Vivace", "Wallvibing", "Crowd Pleaser", "Let's Bounce", "Reverb", "Beat Drop"]
+    },
+    "mercy": {
+        "id": "mercy",
+        "name": "Mercy",
+        "role": "support",
+        "tags": ["poke"],
+        "powers": ["Distortion", "Protective Beam", "Serenity", "Supply Surge", "Threads of Fate", "Battle Medic", "Tethered Tourniquet", "Equivalent Exchange", "First Responder", "Renaissance", "The Whambulance", "Triage Unit"]
+    },
+    "moira": {
+        "id": "moira",
+        "name": "Moira",
+        "role": "support",
+        "tags": ["brawl"],
+        "powers": ["Chain Grasp", "Deconstruction", "Empowering You", "Ethereal Excision", "Optimal Overflow", "Precarious Potency", "Cross-Orbal", "Multiball", "Phantasm", "Scientific Deathod", "Voidhoppers", "Destruction's Divide"]
+    },
+    "wuyang": {
+        "id": "wuyang",
+        "name": "Wuyang",
+        "role": "support",
+        "tags": ["poke"],
+        "powers": ["Paindrops", "Undertow", "Wave Lance", "Flow State", "Shore Up", "Tidekeeper", "Puddle Stomp", "Splish Slash", "Streamline", "Ebb and Flow", "Storm Surge", "Tidal Save"]
+    },
+    "zenyatta": {
+        "id": "zenyatta",
+        "name": "Zenyatta",
+        "role": "support",
+        "tags": ["poke"],
+        "powers": ["Flying Kick", "It's Orbin' Time", "Seeking Salvation", "Dual Harmony", "Enlightenment", "Gotta Have Faith", "Inner Peace", "Discord Fever", "Discord Inferno", "Instant Karma", "Circle of Strife", "Soul Control"]
+    }
+}

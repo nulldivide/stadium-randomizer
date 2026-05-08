@@ -1,0 +1,353 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;900&family=Barlow:wght@300;400;500&display=swap');
+
+body {
+    background-color: #07090f;
+    color: #e8eaf0;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 24px;
+    font-family: 'Barlow', sans-serif;
+}
+
+h1 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 2.6rem;
+    font-weight: 900;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #e8eaf0;
+}
+
+.site-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 36px 0 2px;
+    border-bottom: 1px solid #1e2a3a;
+    margin-bottom: 20px;
+}
+
+.site-header::before {
+    content: '';
+    display: block;
+    width: 4px;
+    height: 42px;
+    background: #f99e1a;
+    border-radius: 2px;
+    flex-shrink: 0;
+}
+
+#hero-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    align-items: start;
+}
+
+#build-section {
+    position: sticky;
+    top: 20px;
+}
+
+#random-btn {
+    width: 100%;
+    margin-top: 12px;
+    padding: 12px 0;
+    background: transparent;
+    border: 1px solid #f99e1a;
+    color: #f99e1a;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+#random-btn:hover {
+    background: #f99e1a;
+    color: #07090f;
+}
+
+#hero-name {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 900;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #e8eaf0;
+    margin-bottom: 4px;
+}
+
+#copy-btn {
+    width: 100%;
+    margin-top: 8px;
+    padding: 8px 0;
+    background: transparent;
+    border: 1px solid #1e2a3a;
+    color: #6b7a8d;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: border-color 0.2s, color 0.2s;
+}
+
+#copy-btn:hover {
+    border-color: #e8eaf0;
+    color: #e8eaf0;
+}
+
+#powers, #items {
+    background: #0d1117;
+    border: 1px solid #1e2a3a;
+    border-radius: 6px;
+    overflow: hidden;
+    margin-top: 16px;
+    animation: fade-slide 0.25s ease;
+}
+
+#powers-list {
+    list-style: none;
+    padding: 8px 0;
+    margin: 0;
+}
+
+.power-list-element {
+    padding: 11px 18px;
+    border-bottom: 1px solid #1e2a3a;
+    font-size: 0.9rem;
+    color: #e8eaf0;
+}
+
+.power-list-element:last-child {
+    border-bottom: none;
+}
+
+.item-list-element {
+    padding: 11px 18px;
+    border-bottom: 1px solid #1e2a3a;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.item-list-element:last-child {
+    border-bottom: none;
+}
+
+.item-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.item-name {
+    color: #e8eaf0;
+    font-size: 0.9rem;
+}
+
+.item-cost {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #f99e1a;
+}
+
+.category-badge {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 2px 7px;
+    border-radius: 2px;
+    border: 1px solid;
+}
+
+.category-badge.gadget {
+    color: #f99e1a;
+    border-color: #f99e1a;
+}
+
+.category-badge.weapon {
+    color: #e05252;
+    border-color: #e05252;
+}
+
+.category-badge.survival {
+    color: #4cba6e;
+    border-color: #4cba6e;
+}
+
+.category-badge.ability {
+    color: #39a9db;
+    border-color: #39a9db;
+}
+
+.category-badge.default {
+    color: #6b7a8d;
+    border-color: #6b7a8d;
+}
+
+.cost-div {
+    padding: 12px 18px;
+    border-top: 1px solid #1e2a3a;
+    background: #111622;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #8a96a8;
+}
+
+.cost-total {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #f99e1a;
+}
+
+.role-label {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #6b7a8d;
+}
+
+.role-tank .role-label { color: #4a90d9; }
+.role-dps .role-label { color: #e05252; }
+.role-support .role-label { color: #4cba6e; }
+
+.role-bar {
+    height: 2px;
+    flex: 1;
+    border-radius: 1px;
+}
+
+.role-tank .role-bar { background: #4a90d9; }
+.role-dps .role-bar { background: #e05252; }
+.role-support .role-bar { background: #4cba6e; }
+
+.hero-section-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 14px;
+}
+
+.hero-role-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(72px, 1fr));
+    gap: 6px;
+    padding: 10px;
+}
+
+.hero-button {
+    border: 1px solid transparent;
+    padding: 0;
+    background: #111622;
+    cursor: pointer;
+    border-radius: 4px;
+    overflow: hidden;
+    transition: border-color 0.15s, transform 0.15s;
+}
+
+.hero-button:hover {
+    border-color: #f99e1a;
+    transform: scale(1.06);
+}
+
+.hero-button.selected {
+    border-color: #f99e1a;
+    box-shadow: 0 0 24px rgba(249, 158, 26, 0.4);
+}
+
+.hero-image {
+    width: 100%;
+    display: block;
+}
+
+.panel-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 18px;
+    border-bottom: 1px solid #1e2a3a;
+    background: #111622;
+}
+
+.panel-header-label {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #8a96a8;
+}
+
+.panel-header-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #f99e1a;
+}
+
+.main-layout {
+    display: grid;
+    grid-template-columns: 1fr 380px;
+    gap: 28px;
+    align-items: start;
+}
+
+
+
+.build-empty {
+    padding: 48px 24px;
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #4a5568;
+}
+
+.site-footer {
+    margin-top: 48px;
+    padding: 24px 0;
+    border-top: 1px solid #1e2a3a;
+    font-size: 0.75rem;
+    color: #4a5568;
+    line-height: 1.6;
+}
+
+@keyframes fade-slide {
+    from {
+        opacity: 0;
+        transform: translateY(6px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 768px) {
+    .main-layout {
+        grid-template-columns: 1fr;
+    }
+
+    #build-section {
+        position: static;
+    }
+}

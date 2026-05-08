@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>OW Stadium Randomizer</title>
+    </head>
+    <body>
+        <div class="page-wrap">
+            <header class="site-header">
+                <h1>Stadium <span>Randomizer</span></h1>
+            </header>
+ 
+            <div class="main-layout">
+                <div>
+                    <div class="panel">
+                        <!-- <div class="panel-header">
+                            <div class="panel-header-dot"></div>
+                            <span class="panel-header-label">Select Hero</span>
+                        </div> -->
+                        <div id="hero-grid"></div>
+                    </div>
+                    <div id="random-btn-section">
+                        <button id="random-btn" type="button"><span>⟳ &nbsp;Random Hero</span></button>
+                    </div>
+                </div>
+                <div class="build-panel">
+                    <div id="build-section">
+                        <div class="panel build-empty-panel">
+                            <p class="build-empty">Select a hero to generate a build</p>
+                        </div>
+                        <h2 id="hero-name" hidden></h2>
+                        <button id="copy-btn" type="button" hidden>Copy Build</button>
+                        <div id="powers" class="panel" hidden>
+                            <div class="panel-header">
+                                <div class="panel-header-dot"></div>
+                                <span class="panel-header-label">Powers</span>
+                            </div>
+                            <ol id="powers-list"></ol>
+                        </div>
+                        <div id="items" class="panel" hidden>
+                            <div class="panel-header">
+                                <div class="panel-header-dot"></div>
+                                <span class="panel-header-label">Items</span>
+                            </div>
+                            <div id="items-list"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer class="site-footer">
+            <p>Ultimate Stadium isn't endorsed by Blizzard Entertainment and doesn't reflect the views or opinions of Blizzard Entertainment or anyone officially involved in producing or managing Overwatch. Overwatch and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc. Overwatch © Blizzard Entertainment, Inc.</p>
+        </footer>
+        <script src="script.js"></script>
+    </body>
+</html>

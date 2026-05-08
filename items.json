@@ -1,0 +1,1761 @@
+{
+    "aerial_distresser": {
+        "id": "aerial_distresser",
+        "name": "Aerial Distresser",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 9000
+    },
+    "codebreaker": {
+        "id": "codebreaker",
+        "name": "Codebreaker",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000
+    },
+    "salvaged_slugs": {
+        "id": "salvaged_slugs",
+        "name": "Salvaged Slugs",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 9000
+    },
+    "volskaya_ordnance": {
+        "id": "volskaya_ordnance",
+        "name": "Volskaya Ordnance",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 9500
+    },
+    "weapon_jammer": {
+        "id": "weapon_jammer",
+        "name": "Weapon Jammer",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000
+    },
+    "amaris_antidote": {
+        "id": "amaris_antidote",
+        "name": "Amari's Antidote",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000
+    },
+    "commanders_clip": {
+        "id": "commanders_clip",
+        "name": "Commander's Clip",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000
+    },
+    "booster_jets": {
+        "id": "booster_jets",
+        "name": "Booster Jets",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000
+    },
+    "elsaka_suppressor": {
+        "id": "elsaka_suppressor",
+        "name": "El-Sa'ka Suppressor",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000
+    },
+    "hardlight_accelerator": {
+        "id": "hardlight_accelerator",
+        "name": "Hardlight Accelerator",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000
+    },
+    "the_closer": {
+        "id": "the_closer",
+        "name": "The Closer",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 14500
+    },
+    "eye_of_the_spider": {
+        "id": "eye_of_the_spider",
+        "name": "Eye of the Spider",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 14000
+    },
+    "sonic_recharger": {
+        "id": "sonic_recharger",
+        "name": "Sonic Recharger",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9000
+    },
+    "biotech_maximizer": {
+        "id": "biotech_maximizer",
+        "name": "Biotech Maximizer",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000
+    },
+    "catalytic_crystal": {
+        "id": "catalytic_crystal",
+        "name": "Catalytic Crystal",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000
+    },
+    "lumerico_fusion_drive": {
+        "id": "lumerico_fusion_drive",
+        "name": "Lumérico Fusion Drive",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000
+    },
+    "superflexor": {
+        "id": "superflexor",
+        "name": "Superflexor",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000
+    },
+    "cybervenom": {
+        "id": "cybervenom",
+        "name": "Cybervenom",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10500
+    },
+    "three_tap_tommygun": {
+        "id": "three_tap_tommygun",
+        "name": "Three-Tap Tommygun",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9500
+    },
+    "iridescent_iris": {
+        "id": "iridescent_iris",
+        "name": "Iridescent Iris",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 12000
+    },
+    "liquid_nitrogen": {
+        "id": "liquid_nitrogen",
+        "name": "Liquid Nitrogen",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000
+    },
+    "mark_of_the_kitsune": {
+        "id": "mark_of_the_kitsune",
+        "name": "Mark of the Kitsune",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000
+    },
+    "champions_kit": {
+        "id": "champions_kit",
+        "name": "Champion's Kit",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 14500
+    },
+    "divine_intervention": {
+        "id": "divine_intervention",
+        "name": "Divine Intervention",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9500
+    },
+    "sundering_vial": {
+        "id": "sundering_vial",
+        "name": "Sundering Vial",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000
+    },
+    "overdrive_core": {
+        "id": "overdrive_core",
+        "name": "Overdrive Core",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9500
+    },
+    "reinforced_titanium": {
+        "id": "reinforced_titanium",
+        "name": "Reinforced Titanium",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9500
+    },
+    "gloomgauntlet": {
+        "id": "gloomgauntlet",
+        "name": "Gloomgauntlet",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000
+    },
+    "martian_mender": {
+        "id": "martian_mender",
+        "name": "Martian Mender",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000
+    },
+    "phantasmic_flux": {
+        "id": "phantasmic_flux",
+        "name": "Phantasmic Flux",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000
+    },
+    "rustung_von_wilhelm": {
+        "id": "rustung_von_wilhelm",
+        "name": "Rüstung von Wilhelm",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000
+    },
+    "vanadium_injection": {
+        "id": "vanadium_injection",
+        "name": "Vanadium Injection",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000
+    },
+    "crusader_hydraulics": {
+        "id": "crusader_hydraulics",
+        "name": "Crusader Hydraulics",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10500
+    },
+    "nebula_conduit": {
+        "id": "nebula_conduit",
+        "name": "Nebula Conduit",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 11000
+    },
+    "ogundimu_reduction_field": {
+        "id": "ogundimu_reduction_field",
+        "name": "Ogundimu Reduction Field",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 11000
+    },
+    "kitsune_charm": {
+        "id": "kitsune_charm",
+        "name": "Kitsune Charm",
+        "category": "Gadget",
+        "tier": "epic",
+        "cost": 9000
+    },
+    "necrotic_repellant": {
+        "id": "necrotic_repellant",
+        "name": "Necrotic Repellant",
+        "category": "Gadget",
+        "tier": "epic",
+        "cost": 9000
+    },
+    "colossus_core": {
+        "id": "colossus_core",
+        "name": "Colossus Core",
+        "category": "Gadget",
+        "tier": "epic",
+        "cost": 9500
+    },
+    "jet_skates": {
+        "id": "jet_skates",
+        "name": "Jet Skates",
+        "category": "Gadget",
+        "tier": "epic",
+        "cost": 9500
+    },
+    "super_serum": {
+        "id": "super_serum",
+        "name": "Super Serum",
+        "category": "Gadget",
+        "tier": "epic",
+        "cost": 10000
+    },
+    "refresher": {
+        "id": "refresher",
+        "name": "Refresher",
+        "category": "Gadget",
+        "tier": "epic",
+        "cost": 13000
+    },
+    "multi_task_mod": {
+        "id": "multi_task_mod",
+        "name": "Multi-Task Mod",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "dva"
+    },
+    "busan_blaster": {
+        "id": "busan_blaster",
+        "name": "Busan Blaster",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "dva"
+    },
+    "macro_missile": {
+        "id": "macro_missile",
+        "name": "Macro Missile",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "dva"
+    },
+    "onslaught_ordinance": {
+        "id": "onslaught_ordinance",
+        "name": "Onslaught Ordinance",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "dva"
+    },
+    "apm_amp": {
+        "id": "apm_amp",
+        "name": "APM AMP",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "dva"
+    },
+    "chip_damage_diverter": {
+        "id": "chip_damage_diverter",
+        "name": "Chip Damage Diverter",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "dva"
+    },
+    "singijeons_pulse_plating": {
+        "id": "singijeons_pulse_plating",
+        "name": "Singijeons Pulse Plating",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "dva"
+    },
+    "nano_cola_nitrous": {
+        "id": "nano_cola_nitrous",
+        "name": "Nano Cola Nitrous",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "dva"
+    },
+    "loaded_knuckles": {
+        "id": "loaded_knuckles",
+        "name": "Loaded Knuckles",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "doomfist"
+    },
+    "friendly_fissure": {
+        "id": "friendly_fissure",
+        "name": "Friendly Fissure",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "doomfist"
+    },
+    "chasm_crusher": {
+        "id": "chasm_crusher",
+        "name": "Chasm Crusher",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "doomfist"
+    },
+    "quickcharger": {
+        "id": "quickcharger",
+        "name": "Quickcharger",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "doomfist"
+    },
+    "zoomfist": {
+        "id": "zoomfist",
+        "name": "Zoomfist",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9500,
+        "hero": "doomfist"
+    },
+    "power_matrix": {
+        "id": "power_matrix",
+        "name": "Power Matrix",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "doomfist"
+    },
+    "sharpsurge": {
+        "id": "sharpsurge",
+        "name": "Sharpsurge",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "hazard"
+    },
+    "boomslangs_blaster": {
+        "id": "boomslangs_blaster",
+        "name": "Boomslang's Blaster",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "hazard"
+    },
+    "touch_ups_touch_up": {
+        "id": "touch_ups_touch_up",
+        "name": "Touch-Up's Touch Up",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "hazard"
+    },
+    "spine_protector": {
+        "id": "spine_protector",
+        "name": "Spine Protector",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "hazard"
+    },
+    "blood_needle": {
+        "id": "blood_needle",
+        "name": "Blood Needle",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "hazard"
+    },
+    "susannahs_support": {
+        "id": "susannahs_support",
+        "name": "Susannah's Support",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "hazard"
+    },
+    "shread_and_lead": {
+        "id": "shread_and_lead",
+        "name": "Shread and Lead",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "junkerqueen"
+    },
+    "bloodhound_mask": {
+        "id": "bloodhound_mask",
+        "name": "Bloodhound Mask",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "junkerqueen"
+    },
+    "tinker_tracksuit": {
+        "id": "tinker_tracksuit",
+        "name": "Tinker Tracksuit",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9500,
+        "hero": "junkerqueen"
+    },
+    "booming_voice": {
+        "id": "booming_voice",
+        "name": "Booming Voice",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "junkerqueen"
+    },
+    "scav_scraps": {
+        "id": "scav_scraps",
+        "name": "Scav Scraps",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "junkerqueen"
+    },
+    "thick_skull": {
+        "id": "thick_skull",
+        "name": "Thick Skull",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "junkerqueen"
+    },
+    "undying_loyalty": {
+        "id": "undying_loyalty",
+        "name": "Undying Loyalty",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "junkerqueen"
+    },
+    "efis_theorem": {
+        "id": "efis_theorem",
+        "name": "Efi's Theorem",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "orisa"
+    },
+    "3d_printed_lance": {
+        "id": "3d_printed_lance",
+        "name": "3D-printed Lance",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "orisa"
+    },
+    "oladele_copter_blades": {
+        "id": "oladele_copter_blades",
+        "name": "Oladele-Copter Blades",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "orisa"
+    },
+    "hollagram_helmet": {
+        "id": "hollagram_helmet",
+        "name": "Hollagram Helmet",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "orisa"
+    },
+    "r7000_powercell": {
+        "id": "r7000_powercell",
+        "name": "R-7000 Powercell",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "ramattra"
+    },
+    "anima_of_anubis": {
+        "id": "anima_of_anubis",
+        "name": "Anima of Anubis",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 13000,
+        "hero": "ramattra"
+    },
+    "abyssal_extender": {
+        "id": "abyssal_extender",
+        "name": "Abyssal Extender",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "ramattra"
+    },
+    "swirling_wind": {
+        "id": "swirling_wind",
+        "name": "Swirling Wind",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "ramattra"
+    },
+    "ultimatum_axis": {
+        "id": "ultimatum_axis",
+        "name": "Ultimatum Axis",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "ramattra"
+    },
+    "nano_mender": {
+        "id": "nano_mender",
+        "name": "Nano Mender",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "ramattra"
+    },
+    "caustic_exo_armor": {
+        "id": "caustic_exo_armor",
+        "name": "Caustic Exo-Armor",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "ramattra"
+    },
+    "dampener_grip": {
+        "id": "dampener_grip",
+        "name": "Dampener Grip",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "reinhardt"
+    },
+    "plan_z": {
+        "id": "plan_z",
+        "name": "Plan Z",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "reinhardt"
+    },
+    "chimeras_maw": {
+        "id": "chimeras_maw",
+        "name": "Chimera's Maw",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9500,
+        "hero": "reinhardt"
+    },
+    "gryphon_glider": {
+        "id": "gryphon_glider",
+        "name": "Gryphon Glider",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "reinhardt"
+    },
+    "phoenix_protocol": {
+        "id": "phoenix_protocol",
+        "name": "Phoenix Protocol",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "reinhardt"
+    },
+    "wilhelmwagen": {
+        "id": "wilhelmwagen",
+        "name": "Wilhelmwagen",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "reinhardt"
+    },
+    "antimatter": {
+        "id": "antimatter",
+        "name": "Antimatter",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "sigma"
+    },
+    "the_harness": {
+        "id": "the_harness",
+        "name": "The Harness",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "sigma"
+    },
+    "de_kuipers_thesis": {
+        "id": "de_kuipers_thesis",
+        "name": "De Kuiper's Thesis",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "sigma"
+    },
+    "gibraltar_generator": {
+        "id": "gibralter_generator",
+        "name": "Gibralter Generator",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "winston"
+    },
+    "harolds_glasses": {
+        "id": "harolds_glasses",
+        "name": "Harold's Glasses",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "winston"
+    },
+    "horizon_expander": {
+        "id": "horizon_expander",
+        "name": "Horizon Expander",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 12500,
+        "hero": "winston"
+    },
+    "unstable_prototype": {
+        "id": "unstable_prototype",
+        "name": "Unstable Prototype",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "winston"
+    },
+    "lucheng_launchers": {
+        "id": "lucheng_launchers",
+        "name": "Lucheng Launchers",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "winston"
+    },
+    "premium_peanut_butter": {
+        "id": "premium_peanut_butter",
+        "name": "Premium Peanut Butter",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "winston"
+    },
+    "fortified_jump_pack": {
+        "id": "fortified_jump_pack",
+        "name": "Fortified Jump Pack",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 12500,
+        "hero": "winston"
+    },
+    "simian_supplements": {
+        "id": "simian_supplements",
+        "name": "Simian Supplements",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "winston"
+    },
+    "light_launcher": {
+        "id": "light_launcher",
+        "name": "Light Launcher",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "zarya"
+    },
+    "bigger_beam": {
+        "id": "bigger_beam",
+        "name": "Bigger Beam",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "zarya"
+    },
+    "superconductor": {
+        "id": "superconductor",
+        "name": "Superconductor",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "zarya"
+    },
+    "lynxs_datadrive": {
+        "id": "lynxs_datadrive",
+        "name": "Lynx's Datadrive",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "zarya"
+    },
+    "maxed_mag": {
+        "id": "maxed_mag",
+        "name": "Maxed Mag",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "ashe"
+    },
+    "incendiary_blastpaper": {
+        "id": "incendiary_blastpaper",
+        "name": "Incendiary Blastpaper",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "ashe"
+    },
+    "infrared_lenses": {
+        "id": "infrared_lenses",
+        "name": "Infrared Lenses",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "ashe"
+    },
+    "firestarter": {
+        "id": "firestarter",
+        "name": "Firestarter",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "ashe"
+    },
+    "build_a_blast_buckshot": {
+        "id": "build_a_blast_buckshot",
+        "name": "Build-a-blast Buckshot",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "ashe"
+    },
+    "bob_wire_defense": {
+        "id": "bob_wire_defense",
+        "name": "B.O.B. Wire Defense",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "ashe"
+    },
+    "competitive_analysis": {
+        "id": "competitive_analysis",
+        "name": "Competitive Analysis",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "cassidy"
+    },
+    "snake_bite": {
+        "id": "snake_bite",
+        "name": "Snake Bite",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "cassidy"
+    },
+    "improved_dynamite": {
+        "id": "improved_dynamite",
+        "name": "Improved Dynamite",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "cassidy"
+    },
+    "frankies_fixer": {
+        "id": "frankies_fixer",
+        "name": "Frankie's Fixer",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "cassidy"
+    },
+    "eagle_eye": {
+        "id": "eagle_eye",
+        "name": "Eagle Eye",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "cassidy"
+    },
+    "portable_zipline": {
+        "id": "portable_zipline",
+        "name": "Portable Zipline",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "freya"
+    },
+    "toxin_tips": {
+        "id": "toxin_tips",
+        "name": "Toxin Tips",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "freya"
+    },
+    "enduring_edge": {
+        "id": "enduring_edge",
+        "name": "Enduring Edge",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "genji"
+    },
+    "swift_loader": {
+        "id": "swift_loader",
+        "name": "Swift-Loader",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "genji"
+    },
+    "ambusher_optics": {
+        "id": "ambusher_optics",
+        "name": "Ambusher Optics",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "genji"
+    },
+    "clean_sweep": {
+        "id": "clean_sweep",
+        "name": "Clean Sweep",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "genji"
+    },
+    "deflecting_dash": {
+        "id": "deflecting_dash",
+        "name": "Deflecting Dash",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "genji"
+    },
+    "slicy_coolant": {
+        "id": "slicy_coolant",
+        "name": "Slicy Coolant",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "genji"
+    },
+    "transference_delta": {
+        "id": "transference_delta",
+        "name": "Transference Delta",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "genji"
+    },
+    "zip_grease": {
+        "id": "zip_grease",
+        "name": "Zip Grease",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "junkrat"
+    },
+    "charged_chompas": {
+        "id": "charged_chompas",
+        "name": "Charged Chompas",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "junkrat"
+    },
+    "fawkes_funny_fuel": {
+        "id": "fawkes_funny_fuel",
+        "name": "Fawkes' Funny Fuel",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "junkrat"
+    },
+    "lithium_alloy": {
+        "id": "lithium_alloy",
+        "name": "Lithium Alloy",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9500,
+        "hero": "junkrat"
+    },
+    "jamisons_jumpers": {
+        "id": "jamisons_jumpers",
+        "name": "Jamison's Jumpers",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "junkrat"
+    },
+    "refreshing_radiation": {
+        "id": "refreshing_radiation",
+        "name": "Refreshing Radiation",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "junkrat"
+    },
+    "focused_flurries": {
+        "id": "focused_flurries",
+        "name": "Focused Flurries",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "mei"
+    },
+    "snowboot": {
+        "id": "snowboot",
+        "name": "Snowboot",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "mei"
+    },
+    "himalayan_hat": {
+        "id": "himalayan_hat",
+        "name": "Himalayan Hat",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "mei"
+    },
+    "sturdy_snowfort": {
+        "id": "sturdy_snowfort",
+        "name": "Sturdy Snowfort",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "mei"
+    },
+    "ecopoint_cryobed": {
+        "id": "ecopoint_cryobed",
+        "name": "Ecopoint Cryobed",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "mei"
+    },
+    "icy_veins": {
+        "id": "icy_veins",
+        "name": "Icy Veins",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "mei"
+    },
+    "ice_sheet": {
+        "id": "ice_sheet",
+        "name": "Ice Sheet",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "mei"
+    },
+    "blast_enhancer": {
+        "id": "blast_enhancer",
+        "name": "Blast Enhancer",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "pharah"
+    },
+    "precision_targeting": {
+        "id": "precision_targeting",
+        "name": "Precision Targeting",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 13500,
+        "hero": "pharah"
+    },
+    "helix_inhibitor": {
+        "id": "helix_inhibitor",
+        "name": "Helix Inhibitor",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "pharah"
+    },
+    "anas_aim_assist": {
+        "id": "anas_aim_assist",
+        "name": "Ana's Aim-Assist",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "pharah"
+    },
+    "forward_shielding": {
+        "id": "forward_shielding",
+        "name": "Forward Shielding",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "pharah"
+    },
+    "onslaught": {
+        "id": "onslaught",
+        "name": "Onslaught",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "reaper"
+    },
+    "crimson_cloak": {
+        "id": "crimson_cloak",
+        "name": "Crimson Cloak",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9500,
+        "hero": "reaper"
+    },
+    "wreath_of_ruin": {
+        "id": "wreath_of_ruin",
+        "name": "Wreath of Ruin",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "reaper"
+    },
+    "dauntless_draught": {
+        "id": "dauntless_draught",
+        "name": "Dauntless Draught",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "reaper"
+    },
+    "wretched_wings": {
+        "id": "wretched_wings",
+        "name": "Wretched Wings",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "reaper"
+    },
+    "murphys_motor_module": {
+        "id": "murphys_motor_module",
+        "name": "Murphy's Motor Module",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "sojourn"
+    },
+    "shah_mat_strategem": {
+        "id": "shah_mat_strategem",
+        "name": "Shah-Mat Strategem",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "sojourn"
+    },
+    "liaos_logistics_data": {
+        "id": "liaos_logistics_data",
+        "name": "Liao's Logistics Data",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "sojourn"
+    },
+    "endgame_equalizer": {
+        "id": "endgame_equalizer",
+        "name": "Endgame Equalizer",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "soldier76"
+    },
+    "rapid_response_module": {
+        "id": "rapid_response_module",
+        "name": "Rapid Response Module",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "soldier76"
+    },
+    "iron_lung": {
+        "id": "iron_lung",
+        "name": "Iron Lung",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "soldier76"
+    },
+    "ingrids_ingenuity": {
+        "id": "ingrids_ingenuity",
+        "name": "Ingrid's Ingenuity",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "torbjorn"
+    },
+    "skjutsnabbit_system": {
+        "id": "skjutsnabbit_system",
+        "name": "Skjutsnabbit System",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "torbjorn"
+    },
+    "arturretficial_intelligence": {
+        "id": "arturretficial_intelligence",
+        "name": "Arturretficial Intelligence",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "torbjorn"
+    },
+    "lindholm_launcher": {
+        "id": "lindholm_launcher",
+        "name": "Lindholm Launcher",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "torbjorn"
+    },
+    "ironblood_injectors": {
+        "id": "ironblood_injectors",
+        "name": "Ironblood Injectors",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "torbjorn"
+    },
+    "underworld_quickloader": {
+        "id": "underworld_quickloader",
+        "name": "Underworld Quickloader",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "tracer"
+    },
+    "chrono_bomb": {
+        "id": "chrono_bomb",
+        "name": "Chrono Bomb",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10500,
+        "hero": "tracer"
+    },
+    "oxton_overdrive": {
+        "id": "oxton_overdrive",
+        "name": "Oxton Overdrive",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "tracer"
+    },
+    "slipstream_salve": {
+        "id": "slipstream_salve",
+        "name": "Slipstream Salve",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "tracer"
+    },
+    "custom_kicks": {
+        "id": "custom_kicks",
+        "name": "Custom Kicks",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "tracer"
+    },
+    "scaled_steel": {
+        "id": "scaled_steel",
+        "name": "Scaled Steel",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "vendetta"
+    },
+    "onslaught_amplifier": {
+        "id": "onslaught_amplifier",
+        "name": "Onslaught Amplifier",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "vendetta"
+    },
+    "marzias_mastery": {
+        "id": "marzias_mastery",
+        "name": "Marzia's Mastery",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9500,
+        "hero": "vendetta"
+    },
+    "ricochet_razor": {
+        "id": "ricochet_razor",
+        "name": "Ricochet Razor",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "vendetta"
+    },
+    "duelists_draught": {
+        "id": "duelists_draught",
+        "name": "Duelist's Draught",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "vendetta"
+    },
+    "antonios_lesson": {
+        "id": "antonios_lesson",
+        "name": "Antonio's Lesson",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "vendetta"
+    },
+    "vicious_vow": {
+        "id": "vicious_vow",
+        "name": "Vicious Vow",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "vendetta"
+    },
+    "unscoped_resources": {
+        "id": "unscoped_resources",
+        "name": "Unscoped Resources",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "ana"
+    },
+    "lethal_dose": {
+        "id": "lethal_dose",
+        "name": "Lethal Dose",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "ana"
+    },
+    "cluster_core": {
+        "id": "cluster_core",
+        "name": "Cluster Core",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "ana"
+    },
+    "grenadius_pin": {
+        "id": "grenadius_pin",
+        "name": "Grenadius Pin",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "ana"
+    },
+    "eye_of_horus": {
+        "id": "eye_of_horus",
+        "name": "Eye of Horus",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "ana"
+    },
+    "time_out": {
+        "id": "time_out",
+        "name": "Time Out",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "ana"
+    },
+    "chain_extender": {
+        "id": "chain_extender",
+        "name": "Chain Extender",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "brigitte"
+    },
+    "scavenged_steel": {
+        "id": "scavenged_steel",
+        "name": "Scavenged Steel",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9500,
+        "hero": "brigitte"
+    },
+    "mitzis_medicine": {
+        "id": "mitzis_medicine",
+        "name": "Mitzi's Medicine",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "brigitte"
+    },
+    "dragons_incinerator": {
+        "id": "dragons_incinerator",
+        "name": "Dragon's Incinerator",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "brigitte"
+    },
+    "hardlight_weave": {
+        "id": "hardlight_weave",
+        "name": "Hardlight Weave",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "brigitte"
+    },
+    "nullifier_neuroworks": {
+        "id": "nullifier_neuroworks",
+        "name": "Nullifier Neuroworks",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "brigitte"
+    },
+    "long_range_blaster": {
+        "id": "long_range_blaster",
+        "name": "Long Range Blaster",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "juno"
+    },
+    "pulse_spike": {
+        "id": "pulse_spike",
+        "name": "Pulse Spike",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "juno"
+    },
+    "gravitational_push": {
+        "id": "gravitational_push",
+        "name": "Gravitational Push",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "juno"
+    },
+    "pulstar_destroyers": {
+        "id": "pulstar_destroyers",
+        "name": "PulStar Destroyers",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "juno"
+    },
+    "solar_shielding": {
+        "id": "solar_shielding",
+        "name": "Solar Shielding",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "juno"
+    },
+    "red_promise_regulator": {
+        "id": "red_promise_regulator",
+        "name": "Red Promise Regulator",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "juno"
+    },
+    "boosted_rockets": {
+        "id": "boosted_rockets",
+        "name": "Boosted Rockets",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9500,
+        "hero": "juno"
+    },
+    "sunburst_serum": {
+        "id": "sunburst_serum",
+        "name": "Sunburst Serum",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "juno"
+    },
+    "spirits_guidance": {
+        "id": "spirits_guidance",
+        "name": "Spirit's Guidance",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "kiriko"
+    },
+    "ryotas_reloader": {
+        "id": "ryotas_reloader",
+        "name": "Ryõta's Reloader",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "kiriko"
+    },
+    "donut_delivery": {
+        "id": "donut_delivery",
+        "name": "Donut Delivery",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "kiriko"
+    },
+    "our_bikes": {
+        "id": "our_bikes",
+        "name": "Our Bikes",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "kiriko"
+    },
+    "talisman_of_velocity": {
+        "id": "talisman_of_velocity",
+        "name": "Talisman of Velocity",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "kiriko"
+    },
+    "goddesss_aura": {
+        "id": "goddesss_aura",
+        "name": "Goddess's Aura",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "kiriko"
+    },
+    "talisman_of_life": {
+        "id": "talisman_of_life",
+        "name": "Talisman of Life",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "kiriko"
+    },
+    "b_side_bop": {
+        "id": "b_side_bop",
+        "name": "B-Side Bop",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "lucio"
+    },
+    "riff_repeater": {
+        "id": "riff_repeater",
+        "name": "Riff Repeater",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "lucio"
+    },
+    "airwaves": {
+        "id": "airwaves",
+        "name": "Airwaves",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "lucio"
+    },
+    "all_out_auditiva": {
+        "id": "all_out_auditiva",
+        "name": "All Out Auditiva",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "lucio"
+    },
+    "hip_hop": {
+        "id": "hip_hop",
+        "name": "Hip Hop",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "lucio"
+    },
+    "caduceus_ex": {
+        "id": "caduceus_ex",
+        "name": "Caduceus EX",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "mercy"
+    },
+    "celestial_clip": {
+        "id": "celestial_clip",
+        "name": "Celestial Clip",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "mercy"
+    },
+    "resurection_rangefinder": {
+        "id": "resurrection_rangefinder",
+        "name": "Resurrection Rangefinder",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "mercy"
+    },
+    "blessed_boosters": {
+        "id": "blessed_boosters",
+        "name": "Blessed Boosters",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "mercy"
+    },
+    "angelic_acrobatics": {
+        "id": "angelic_acrobatics",
+        "name": "Angelic Acrobatics",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "mercy"
+    },
+    "chain_evoker": {
+        "id": "chain_evoker",
+        "name": "Chain Evoker",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "mercy"
+    },
+    "alternative_energy": {
+        "id": "alternative_energy",
+        "name": "Alternative Energy",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "moira"
+    },
+    "subatomic_splitter": {
+        "id": "subatomic_splitter",
+        "name": "Subatomic Splitter",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "moira"
+    },
+    "coalegion": {
+        "id": "coalegion",
+        "name": "Coalegion",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "moira"
+    },
+    "extendrils": {
+        "id": "extendrils",
+        "name": "Extendrils",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "moira"
+    },
+    "oceanic_ointment": {
+        "id": "oceanic_ointment",
+        "name": "Oceanic Ointment",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "wuyang"
+    },
+    "metal_college_module": {
+        "id": "metal_college_module",
+        "name": "Metal College Module",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "wuyang"
+    },
+    "aquajet_amplifier": {
+        "id": "aquajet_amplifier",
+        "name": "Aquajet Amplifier",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "wuyang"
+    },
+    "wuxing_waveriders": {
+        "id": "wuxing_waveriders",
+        "name": "Wuxing Waveriders",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "wuyang"
+    },
+    "ye_family_visor": {
+        "id": "ye_family_visor",
+        "name": "Ye Family Visor",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "wuyang"
+    },
+    "waterfall_wetsuit": {
+        "id": "waterfall_wetsuit",
+        "name": "Waterfall Wetsuit",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "wuyang"
+    },
+    "torrential_transistor": {
+        "id": "torrential_transistor",
+        "name": "Torrential Transistor",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "wuyang"
+    },
+    "hydro_mender": {
+        "id": "hydro_mender",
+        "name": "Hydro Mender",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "wuyang"
+    },
+    "haste_subroutine": {
+        "id": "haste_subroutine",
+        "name": "Haste Subroutine",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "zenyatta"
+    },
+    "genjis_galvanic_gloves": {
+        "id": "genjis_galvanic_gloves",
+        "name": "Genji's Galvanic Gloves",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "zenyatta"
+    },
+    "orb_of_perception": {
+        "id": "orb_of_perception",
+        "name": "Orb of Perception",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "zenyatta"
+    },
+    "friendship_bracelet": {
+        "id": "friendship_bracelet",
+        "name": "Friendship Bracelet",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "zenyatta"
+    },
+    "mind_shaper": {
+        "id": "mind_shaper",
+        "name": "Mind Shaper",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 12000,
+        "hero": "zenyatta"
+    },
+    "mondattas_mantra": {
+        "id": "mondattas_mantra",
+        "name": "Mondatta's Mantra",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "zenyatta"
+    },
+    "golden_monk": {
+        "id": "golden_monk",
+        "name": "Golden Monk",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "zenyatta"
+    },
+    "meditation_mat": {
+        "id": "meditation_mat",
+        "name": "Meditation Mat",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "zenyatta"
+    },
+    "teachers_totem": {
+        "id": "teachers_totem",
+        "name": "Teacher's Totem",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "zenyatta"
+    }
+}
