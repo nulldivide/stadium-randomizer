@@ -284,7 +284,7 @@
         "name": "Refresher",
         "category": "Gadget",
         "tier": "epic",
-        "cost": 13000
+        "cost": 12000
     },
     "multi_task_mod": {
         "id": "multi_task_mod",
@@ -1757,5 +1757,37 @@
         "tier": "epic",
         "cost": 10000,
         "hero": "zenyatta"
+    },
+    "recycling_rounds": {
+        "id": "recycling_rounds",
+        "name": "Recycling Rounds",
+        "category": "Weapon",
+        "tier": "epic",
+        "cost": 11000,
+        "hero": "jetpackcat"
+    },
+    "purrimeter_expander": {
+        "id": "purrimeter_expander",
+        "name": "Purr-imeter Expander",
+        "category": "Ability",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "jetpackcat"
+    },
+    "tether_toughness": {
+        "id": "tether_toughness",
+        "name": "Tether Toughness",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 9000,
+        "hero": "jetpackcat"
+    },
+    "fuel_pod": {
+        "id": "fuel_pod",
+        "name": "Fuel Pod",
+        "category": "Survival",
+        "tier": "epic",
+        "cost": 10000,
+        "hero": "jetpackcat"
     }
 }
